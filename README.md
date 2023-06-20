@@ -1,1 +1,1 @@
-# SM
+This document provides supplemental materials for the manuscript entitled ``Coverage Optimization of Robotic Sensor Networks in Non-Convex Environments via Rotary Pointer Partitions", and it is composed of two parts. The first part discusses simulation results on the robustness of rotary pointer partition to disturbances and the removal of agents, and the second part provides the experimental results on the proposed coverage control approach in the robotic platform of Robotarium.
